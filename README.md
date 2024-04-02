@@ -10,8 +10,9 @@ Aqui estão reunidos todos os detalhes deste meu mais novo Projeto/ Portfólio. 
 <div style="text-align: center;">
   <h2>
     <a href="#-sobre">Sobre</a> |
+    <a href="#-capturas-de-tela">Capturas de Tela</a> |
     <a href="#-tecnologias-utilizadas">Tecnologias</a> |
-    <a href="#-capturas-de-tela">Capturas de Tela</a>
+    <a href="#-linkTree-para-Contato">LinkTree</a>
   </h2>
 </div>
 
@@ -24,20 +25,19 @@ Aqui estão reunidos todos os detalhes deste meu mais novo Projeto/ Portfólio. 
 
 ---
 
-Há um bom tempo, eu vinha trabalhando no desenvolvimento de um portfólio pessoal profissional, minha ideia desde eo início era de reunir as minhas principais hard sKills alinhadas com as minhas soft skills.
-Minha primeira versão criada foi toda desenvolvida com JavaScript, HTML5 e CSS3 e com isso onfesso que achei "básico" (um grande erro meu), com isso acabei não 'subindo' este meu projeto para de fato usa-lo como portfólio.
+Há um bom tempo, eu vinha trabalhando no desenvolvimento de um Portfólio pessoal Profissional, minha ideia era de reunir as minhas principais Hard-SKills alinhadas com as minhas Soft-Skills.
+Minha primeira versão criada foi toda desenvolvida com JavaScript, HTML5 e CSS3, que eram as tecs que eu mais tinha familiaridade na época. Porém com a alta demanda do trabalho e a rotina de estudos da faculdade, acabei não dando sequência com o desenvolvimento do meu portfólio.
 
-Posteriormente esse ano resolvi finalmente tirar essa ideia do baú e resolvi criar algo novo, do zero, só que dessa vez com as minhas principais hard skills.
-E foi assim que esse projeto foi desenvolvido! Meu intuito era o de alinhar a prática com os meus estudos e criar algo legal, sem pressa e sem data apertada para 'entrega da demanda'.
-Dito isso, criei este meu portfólio, onde cada detalhe (por mais simples que seja) foi criado do zero. _*Quando digo criado do zero, me refiro a não usar uma base ou trechos de código prontos,
-obivamente não criei nenhuma das libs presentes netes projeto em conjunto com toda a complexidade das tecs usadas hahaha.*_
+Esse ano, resolvi tirar essa ideia do baú. Porém com uma ideia ainda melhor. Comecei a trabalhar e criar algo novo, do zero, com as minhas principais Hard-Skills que tenho conhecimento até o momento.
+E foi assim que esse projeto foi todo desenvolvido! Meu intuito era o de alinhar a prática com os meus estudos e criar algo legal, sem pressa e sem data apertada para 'entrega da demanda'.
+Neste meu portfólio, cada detalhe, desde o mais simples ao mais complexo, foi pensado e desenvolvido do zero. *_E claro que usei diversas Libs legais no desenvolvimento Hahaha_* 
 
-Foi um desafio particularmente incrível! Aprendi diversos recursos novos, testei diversas libs diferentes e sem dúvidas uma das melhores partes,
-foi aprimorar o meu conhecimento em quanto desenvolvia cada parte deste projeto.
+Foi um desafio que achei particularmente INCRÍVEL! Aprendi diversos recursos novos, testei diversas Libs e Tecs diferentes. 
+E sem dúvidas, uma das melhores partes, foi aprimorar o meu conhecimento com o desenvolvimento de cada parte deste Projeto.
 
-Bom, sem mais demoras, a baixo segue diversas informações bem legais a respeito deste projeto, como as principais tecs que usei e todos os demais detalhes relacionados a ele.
+Bom, sem mais demoras, a baixo segue diversas informações bem legais a respeito deste projeto, como as principais Tecs que usei e todos os demais detalhes relacionados a ele.
 
-Quaisquer dúvidas, existem diversas formas de entrarmos em contato, sinta-se a vontade para utilizar a que lhe for melhor, retorno o seu contato assim que puder.
+Quaisquer dúvidas, existem diversas formas de entrarmos em contato, sinta-se a vontade para utilizar a que lhe for melhor, retorno o seu contato assim que eu puder.
 
 ---
 
@@ -45,10 +45,9 @@ Quaisquer dúvidas, existem diversas formas de entrarmos em contato, sinta-se a 
 
 ### Responsividade 🎯
 
-Este Portfólio foi criado visando a sua responsividade para acesso tanto por meio de dispositivos desktop, como tambem por dispositivos mobile.
-Uma grande parte dos acessos a aplicações hoje em dia se dão por meio dos dispositivos mobile, com isso implementei uma boa responsividade a ele
-garantindo que a experinência visual seja tão boa quanto no uso em destktop.
-_Sinta-se a vontade para experimentar também essa aplicação no seu dispositivo mobile._
+Este Portfólio foi criado visando a sua responsividade para acesso tanto por meio de dispositivos *Desktop*, como tambem por dispositivos *Mobile*.
+Sabemo que uma grande parte dos acessos a aplicações hoje em dia se dão por meio dos dispositivos mobile, com isso implementei uma excelente responsividade a ele
+garantindo que a experinência visual em dispositivos Mobile seja tão boa quanto em dispositivos Destktop.
 
 <br/>
 
@@ -56,7 +55,7 @@ _Sinta-se a vontade para experimentar também essa aplicação no seu dispositiv
 
 [![Danielcsxx](https://img.shields.io/badge/Danielcsxx%20🚀-Portfólio-152AE6)](https://danielcsxx.netlify.app)
 
-### Deploy Status
+### Status do Deploy na Netlify 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/51b21e4b-eb81-493b-bb93-d7a86eb74289/deploy-status)](https://app.netlify.com/sites/danielcsxx/deploys)
 
@@ -66,25 +65,28 @@ _Sinta-se a vontade para experimentar também essa aplicação no seu dispositiv
 
 ## 📷 Capturas de Tela
 
-_*Aqui estão algumas capturas de tela do projeto em ambiente desktop e mobile.*_ <br/>
+_*Aqui estão algumas capturas de tela do projeto em ambiente Desktop e Mobile.*_ <br/>
 
 <br/>
 *Aplicação em ambiente desktop.*
+
+---
 <br/>
 
 <div>
 <img src="/src/pictures/Portfolio-Desktop01.png" alt="Profile Danielcsxx Desktop" width:"50%">
-
 </div>
 
 ---
 
 <br/>
 *Adição em ambiente mobile.*
+
+---
 <br/>
 
 <div>
-<img src="./src/pictures/Portfolio-Mobile01.png" alt="Profile Danielcsxx Mobile" width:"60%">
+<img src="/src/pictures/Portfolio-Mobile01.png" alt="Profile Danielcsxx Mobile" width:"60%">
 </div>
 
 <br/>
@@ -95,14 +97,14 @@ _*Aqui estão algumas capturas de tela do projeto em ambiente desktop e mobile.*
 
 Aqui estão as principais tecnologias implementadas neste projeto:
 
-- ### React.JS
-- ### TypeScript
-- ### Styled Components
-- ### React Icons - Fontawesome
-- ### Axios
-- ### Formik + Yup
-- ### Typed.JS
-- ### React Toastify
+- ### React.JS - Biblioteca principal para o desenvolvimento da interface de usuário
+- ### TypeScript - Adiciona tipagem estática aos dados, melhorando a robustez e a manutenção do código
+- ### Styled Components - Utilizado para estilização dos componentes
+- ### React Icons - Fontawesome - Icones do projeto, com base na biblioteca Font Awesome
+- ### Axios - Biblioteca utilizada para fazer requisições HTTP
+- ### Formik + Yup - Combinação de bibliotecas para a criação de formulários e validações
+- ### Typed.JS - Biblioteca de animações da tela inicial
+- ### React Toastify -  Utilizado para exibir notificações de status personalizadas
 
 ---
 
@@ -113,7 +115,3 @@ Aqui estão as principais tecnologias implementadas neste projeto:
 ---
 
 <br/>
-
-<div style="text-align: center;">
-  <a href="#supermarkerlist" style="display: inline-block; margin-top: 20px;">🔝 Voltar ao Topo</a>
-</div>
