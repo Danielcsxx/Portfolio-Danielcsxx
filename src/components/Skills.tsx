@@ -151,7 +151,6 @@ const SoftSkillsCards = styled.p`
     border-radius: 4px;
     border: 2px solid #FFF;
     cursor: pointer;
-    // transition: color .2s ease, background .2s ease,border .2s ease;
 
     &:hover{
         color: #111;
@@ -202,12 +201,9 @@ const ButtonToggleSkills = styled.button`
     &:hover{
         color: #0A66C2;
         background-color: #F0F0F0;
-    
         border: 2px solid #152ae6;
         box-shadow: 0 0 42px 12px #152ae6;
-
         transform: scale(1.1);
-
     }
 `;
 
