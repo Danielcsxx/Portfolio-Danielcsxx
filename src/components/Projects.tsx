@@ -5,6 +5,7 @@ import { FaChevronRight, FaChevronLeft, FaGithub, FaLink } from 'react-icons/fa'
 import supermarkList from "../images/SupermarkList01.png";
 import primeFlix from "../images/PrimeFLix01.png";
 import devInfos from "../images/DevInfos01.png";
+import calculadoraIMC from "../images/CalculadoraIMC01.png";
 
 
 const MainProjects = styled.div`
@@ -176,10 +177,11 @@ const ContatctBtnGit = styled.a`
     color: #F0F0F0;
     border: 2px solid #FFF;
     border-radius: 6px;
-    transition: background-color 0.6s;
+    transition: all 0.6s ease;
 
     &:hover{
         background-color: #5C6BC0;
+        box-shadow: 0 0 26px 8px #5C6BC0;
     }
 `;
 
@@ -193,10 +195,11 @@ const ContatctBtnLink = styled.a`
     color: #F0F0F0;
     border: 2px solid #FFF;
     border-radius: 6px;
-    transition: background-color 0.6s;
+    transition: all 0.6s ease;
 
     &:hover{
         background-color: #32E6E2;
+        box-shadow: 0 0 26px 4px #32E6E2;
     }
 `;
 
@@ -233,6 +236,15 @@ const Projects: React.FC = () => {
             githubLink: "https://github.com/Danielcsxx/Landing-Page-Dev-Infos",
             deployLink: "https://devinfos.netlify.app/"
         },
+        {
+            name: "Calculadora de IMC",
+            img: calculadoraIMC,
+            resume: `Calcule o seu IMC de uma forma simples e rápida agora mesmo. Este projeto 
+            se trata de uma ferramenta simples, mas poderosa, que poderá ajudá-lo(a) a obter 
+            informações relacionadas ao seu IMC atual.`,
+            githubLink: "https://github.com/Danielcsxx/CalculadoraIMC",
+            deployLink: "https://calculaomeuimc.netlify.app/"
+        }
     ];
 
     const nextProject = () => {

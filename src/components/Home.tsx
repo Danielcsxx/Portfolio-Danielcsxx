@@ -66,7 +66,7 @@ const BtnContact = styled.a`
     background-color: #F5FFFA;
     color: #515151;
     border: 2px solid #152ae6;
-    box-shadow: 0 0 62px 6px #152ae6;
+    box-shadow: 0 0 62px 10px #152ae6;
 
   }
 
@@ -103,7 +103,7 @@ const BtnDownload = styled.a`
     background-color: #F5FFFA;
     color: #515151;
     border: 2px solid #DE2429;
-    box-shadow: 0 0 62px 6px #DE2429;
+    box-shadow: 0 0 62px 10px #DE2429;
   }
 
   &:hover svg{
@@ -235,7 +235,7 @@ const Home: React.FC = () => {
             <FaRegUser size={26} />
           </BtnContact>
           <BtnDownload
-            href="https://drive.google.com/file/d/1hT2YyerfJoQIZP97KSL3bEOJea8q9kH3/view?usp=drive_link"
+            href="https://drive.google.com/file/d/13ytujCitQ00Wg9g7ikGjOIOn1452c0qg/view?usp=drive_link"
             target="_blank"
           >
             {"Downlod"}
