@@ -1,11 +1,12 @@
-# Portfólio Danielcsxx 
+# Portfólio Danielcsxx
 
-Olá! Seja muito bem vindo(a)! 😄 <br/>
-Reuni aqui todos os detalhes deste meu mais novo Projeto/ Portfólio! <br/> 
+Olá! Seja muito bem vindo(a)! <br/>
+Aqui estão reunidos todos os detalhes deste meu mais novo Projeto/ Portfólio. <br/>
 
 <br/>
 
 ---
+
 <div style="text-align: center;">
   <h2>
     <a href="#-sobre">Sobre</a> |
@@ -27,9 +28,9 @@ Há um bom tempo, eu vinha trabalhando no desenvolvimento de um portfólio pesso
 Minha primeira versão criada foi toda desenvolvida com JavaScript, HTML5 e CSS3 e com isso onfesso que achei "básico" (um grande erro meu), com isso acabei não 'subindo' este meu projeto para de fato usa-lo como portfólio.
 
 Posteriormente esse ano resolvi finalmente tirar essa ideia do baú e resolvi criar algo novo, do zero, só que dessa vez com as minhas principais hard skills.
-E foi assim que esse projeto foi desenvolvido! Meu intuito era o de alinhar a prática com os meus estudos e criar algo legal, sem pressa e sem data apertada para 'entrega da demanda'. 
-Dito isso, criei este meu portfólio, onde cada detalhe (por mais simples que seja) foi criado do zero. *_Quando digo criado do zero, me refiro a não usar uma base ou trechos de código prontos,
-obivamente não criei nenhuma das libs presentes netes projeto em conjunto com toda a complexidade das tecs usadas hahaha._*
+E foi assim que esse projeto foi desenvolvido! Meu intuito era o de alinhar a prática com os meus estudos e criar algo legal, sem pressa e sem data apertada para 'entrega da demanda'.
+Dito isso, criei este meu portfólio, onde cada detalhe (por mais simples que seja) foi criado do zero. _*Quando digo criado do zero, me refiro a não usar uma base ou trechos de código prontos,
+obivamente não criei nenhuma das libs presentes netes projeto em conjunto com toda a complexidade das tecs usadas hahaha.*_
 
 Foi um desafio particularmente incrível! Aprendi diversos recursos novos, testei diversas libs diferentes e sem dúvidas uma das melhores partes,
 foi aprimorar o meu conhecimento em quanto desenvolvia cada parte deste projeto.
@@ -55,9 +56,9 @@ _Sinta-se a vontade para experimentar também essa aplicação no seu dispositiv
 
 [![Danielcsxx](https://img.shields.io/badge/Danielcsxx%20🚀-Portfólio-152AE6)](https://danielcsxx.netlify.app)
 
-### Deploy Status 
+### Deploy Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/51b21e4b-eb81-493b-bb93-d7a86eb74289/deploy-status)](https://app.netlify.com/sites/danielcsxx/deploys)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/51b21e4b-eb81-493b-bb93-d7a86eb74289/deploy-status)](https://app.netlify.com/sites/danielcsxx/deploys)
 
 <br/>
 
@@ -65,17 +66,16 @@ _Sinta-se a vontade para experimentar também essa aplicação no seu dispositiv
 
 ## 📷 Capturas de Tela
 
-*_Aqui estão algumas capturas de tela do projeto em ambiente desktop e mobile._* <br/>
+_*Aqui estão algumas capturas de tela do projeto em ambiente desktop e mobile.*_ <br/>
 
 <br/>
 *Aplicação em ambiente desktop.*
 <br/>
 
 <div>
-<img src="" width:"50%">
+<img src="/src/pictures/Portfolio-Desktop01.png" alt="Profile Danielcsxx Desktop" width:"50%">
 
 </div>
-
 
 ---
 
@@ -84,7 +84,7 @@ _Sinta-se a vontade para experimentar também essa aplicação no seu dispositiv
 <br/>
 
 <div>
-<img src="" width:"60%">
+<img src="./src/pictures/Portfolio-Mobile01.png" alt="Profile Danielcsxx Mobile" width:"60%">
 </div>
 
 <br/>
@@ -94,6 +94,7 @@ _Sinta-se a vontade para experimentar também essa aplicação no seu dispositiv
 ## 💻 Tecnologias Utilizadas
 
 Aqui estão as principais tecnologias implementadas neste projeto:
+
 - ### React.JS
 - ### TypeScript
 - ### Styled Components
@@ -105,7 +106,7 @@ Aqui estão as principais tecnologias implementadas neste projeto:
 
 ---
 
-## 🚀 LinkTree para Contato 
+## 🚀 LinkTree para Contato
 
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/daniel.csxx)
 
@@ -116,9 +117,3 @@ Aqui estão as principais tecnologias implementadas neste projeto:
 <div style="text-align: center;">
   <a href="#supermarkerlist" style="display: inline-block; margin-top: 20px;">🔝 Voltar ao Topo</a>
 </div>
-
-
-
-
-
-

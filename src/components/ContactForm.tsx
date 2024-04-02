@@ -4,8 +4,8 @@ import { useForm } from "@formspree/react";
 import { Formik, Form, Field, ErrorMessage, FormikHelpers } from "formik";
 import * as Yup from 'yup';
 import { FaEnvelope, FaUserAlt, FaPhone, FaComment, FaPaperPlane } from "react-icons/fa";
-
 import { toast } from 'react-toastify';
+
 
 interface FormValues {
     [key: string]: string,
@@ -115,7 +115,6 @@ const ContactFormBtn = styled.button`
         background-color: #041079;
         color: #FFF;
         border: 2px solid #FFF;
-        // box-shadow: 0 0 62px 10px #152ae6;
     }
 `;
 
@@ -126,12 +125,8 @@ const ContactFormErrors = styled(ErrorMessage)`
 `;
 
 const ContactForm: React.FC = () => {
-
+    // eslint-disable-next-line
     const [state, handleSubmit] = useForm("mvoewzyg");
-
-    if (state.succeeded) {
-        console.log("Sucesso no envio");
-    }
 
     const initialValues: FormValues = {
         nome: '',
@@ -142,24 +137,24 @@ const ContactForm: React.FC = () => {
 
     const validationSchema = Yup.object({
         nome: Yup.string()
-            .required('O nome é obrigatório!'),
+            .required('O nome é obrigatório'),
         email: Yup.string().email('Endereço de email inválido!')
-            .required('O email é obrigatório!'),
+            .required('O email é obrigatório'),
         telefone: Yup.string()
-            .required('O telefone é obrigatório!'),
+            .required('O telefone é obrigatório'),
         mensagem: Yup.string()
             .max(200, 'A mensagem não pode ultrapassar 200 caracteres')
-            .required('A mensagem é obrigatória!')
+            .required('A mensagem é obrigatória')
     });
 
     const sendForm = async (values: FormValues, helpers: FormikHelpers<FormValues>) => {
         try {
             await handleSubmit(values);
-            toast.success("Formulário enviado com sucesso !");
+            toast.success("Formulário enviado com sucesso");
             helpers.resetForm();
         } catch (error) {
             console.log("Erro no envio do formulario: ", error);
-            toast.error("Falha ao enviar o formulário");
+            toast.error("Falha no envio do formulário");
         }
     };
 

@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import BaseContent from "./BaseContent";
 import styled from "styled-components";
 import { FaChevronRight, FaChevronLeft, FaGithub, FaLink } from 'react-icons/fa';
-import supermarkList from "../images/SupermarkList01.png";
-import primeFlix from "../images/PrimeFLix01.png";
-import devInfos from "../images/DevInfos01.png";
-import calculadoraIMC from "../images/CalculadoraIMC01.png";
+import supermarkList from "../pictures/SupermarkList01.png";
+import primeFlix from "../pictures/PrimeFLix01.png";
+import devInfos from "../pictures/DevInfos01.png";
+import calculadoraIMC from "../pictures/CalculadoraIMC01.png";
 
 
 const MainProjects = styled.div`

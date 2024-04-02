@@ -1,7 +1,7 @@
 import React from "react";
 import BaseContent from "./BaseContent";
 import styled from "styled-components";
-import FotoPerfil from "../images/FotoPerfil.jpeg";
+import FotoPerfil from "../pictures/FotoPerfil.jpeg";
 
 
 const ContentMain = styled.div`
