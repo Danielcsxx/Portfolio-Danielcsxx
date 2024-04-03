@@ -272,7 +272,7 @@ const Skills: React.FC = () => {
                         Habilidades Profissionais estas que adquiri com o desenvolvimento do
                         código na prática em si e com as experiências profissionais.
                         < br />
-                        E também minhas principais Habiliades Pessoais que possuo.
+                        E também minhas principais Habilidades Pessoais que possuo.
                     </InfoSkills>
                     <SkillsMain>
                         <ButtonToggleSkills onClick={toggleSkills}>
