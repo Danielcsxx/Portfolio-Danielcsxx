@@ -72,7 +72,7 @@ const ImageProfile = styled.img`
 const AboutMe: React.FC = () => {
     return (
         <BaseContent id="Aboutme">
-            <Title><DetailTitle>-</DetailTitle>{"Sobre Mim"}<DetailTitle>-</DetailTitle></Title>
+            <Title><DetailTitle>-</DetailTitle>{"Sobre mim"}<DetailTitle>-</DetailTitle></Title>
             <ContentMain>
                 <ContentText>
                     Minha paixão pela tecnologia foi um dos principais motivos que me
@@ -80,7 +80,7 @@ const AboutMe: React.FC = () => {
                     recentemente a área Técnica Industrial para ingressar 100% no mundo da
                     tecnologia, mais precisamente no Desenvolvimento de Softwares.
                     <br /><br />
-                    Sou adpeto a aprendizagem contínua. Constantemente, desenvolvo 
+                    Sou adepto a aprendizagem contínua. Constantemente, desenvolvo 
                     projetos pessoais com o intuito de evoluir e aprimorar o meu conhecimento 
                     pessoal e também oferecer as melhores soluções possíveis no desenvolvimento de software.
                     <br /><br />
