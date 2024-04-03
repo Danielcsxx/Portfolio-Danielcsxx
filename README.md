@@ -33,7 +33,7 @@
 
 No ano passado, eu vinha trabalhando no desenvolvimento de um Projeto de Portfólio, minha ideia era de reunir as minhas principais habilidades neste projeto.
 Sua primeira versão foi criada e desenvolvida inteiramente com `JavaScript, HTML e CSS`, que eram as tecs que eu mais tinha familiaridade naquele momento. 
-Porém, por conta da rotina de trabalho e os estudos da faculdade, acabei cometendo o erro de não dar sequência com desenvolvimento deste Projeto de Portfólio.
+Porém, devido à rotina de trabalho e aos estudos da faculdade, acabei cometendo o erro de não dar continuidade ao desenvolvimento deste Projeto de Portfólio.
 
 Este ano, resolvi tirar essa ideia do baú e de uma forma muito melhor. Neste novo portfólio, cada detalhe, desde o mais simples ao mais complexo, foi planejado e desenvolvido do zero. 
 Comecei então a trabalhar em algo novo, do zero e com as minhas principais habilidades que tenho conhecimento até o momento.<br/>
@@ -55,7 +55,7 @@ E sem dúvidas, uma das melhores partes, foi aprimorar o meu conhecimento com o 
 
 Bom, sem mais demoras, abaixo segue diversas informações bem legais a respeito deste projeto, como as principais Tecs que usei e todos os demais detalhes relacionados a ele.
 
-Quaisquer dúvidas, existem diversas formas de entrarmos em contato, sinta-se a vontade para utilizar a que lhe for melhor, retorno o seu contato assim que eu puder.
+Quaisquer dúvidas, existem diversas formas de entrarmos em contato, sinta-se a vontade para utilizar a que lhe for melhor, retornarei o contato assim que eu puder.
 
 ---
 
@@ -66,8 +66,10 @@ Quaisquer dúvidas, existem diversas formas de entrarmos em contato, sinta-se a 
 ---
 
 Este Portfólio foi criado visando a sua responsividade para acesso tanto por meio de dispositivos `Desktop`, como tambem por dispositivos `Mobile`.
-Sabemo que uma grande parte dos acessos a aplicações hoje em dia se dão por meio dos dispositivos mobile, com isso implementei uma excelente responsividade a ele
-garantindo que a experinência visual em dispositivos Mobile seja tão boa quanto em dispositivos Destktop.
+Implementei uma abordagem de design responsivo que se ajusta dinamicamente às características de visualização dos dispositivos móveis,
+proporcionando uma navegação suave e uma apresentação visualmente atraente em qualquer dispositivo. 
+Desde a disposição dos elementos até o dimensionamento das imagens e a legibilidade do texto, 
+cada detalhe foi otimizado para garantir uma experiência consistente e intuitiva, independentemente do dispositivo utilizado.
 
 ---
 
@@ -124,7 +126,7 @@ _*Aqui estão algumas capturas de tela do projeto em ambiente Desktop e Mobile.*
 
 ---
 
-Aqui estão as principais tecnologias implementadas neste projeto:
+Aqui estão as principais Tecs implementadas neste projeto:
 
 - `React.JS` - Biblioteca principal para o desenvolvimento da interface de usuário
 - `TypeScript` - Adiciona tipagem estática aos dados, melhorando a robustez e a manutenção do código
