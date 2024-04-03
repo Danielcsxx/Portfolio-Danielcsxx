@@ -238,7 +238,7 @@ const Home: React.FC = () => {
             href="https://drive.google.com/file/d/13ytujCitQ00Wg9g7ikGjOIOn1452c0qg/view?usp=drive_link"
             target="_blank"
           >
-            {"Downlod"}
+            {"Download"}
             <FaRegFilePdf size={28} />
           </BtnDownload>
         </ContentBtn>
