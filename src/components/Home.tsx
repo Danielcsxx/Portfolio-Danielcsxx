@@ -148,8 +148,12 @@ const CubeFace = styled.div`
   width: 100%;
   height: 120%;
   opacity: 1;
-  border: 2px solid #152ae6;
+  border: 2px solid #FFF;
+  box-shadow: 0 0 62px 10px #152ae6;
 
+  &:hover{
+  }
+  
   @media (max-width: 1000px){
     width: 100%;
     height: 100%;

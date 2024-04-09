@@ -46,6 +46,7 @@ const Logo = styled.a`
 
   &:hover{
     color: #F9F6EE;
+    text-shadow: 0 2px 42px #152ae6;
   }
 
   @media (max-width: 1000px) {
