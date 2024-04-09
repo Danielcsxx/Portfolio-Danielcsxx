@@ -79,12 +79,12 @@ cada detalhe foi otimizado para garantir uma experiência consistente e intuitiv
 
 ---
 
-### Este e o Link para ao Portfólio
+### Link do Portfólio
 
 <a href="https://danielcsxx.netlify.app" target="_blank">![Danielcsxx](https://img.shields.io/badge/Danielcsxx%20🚀-Portfólio-152AE6)</a>
 
 
-### Este e o status do Deploy na Netlify 
+### Status do Deploy
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/51b21e4b-eb81-493b-bb93-d7a86eb74289/deploy-status)](https://app.netlify.com/sites/danielcsxx/deploys)
 
