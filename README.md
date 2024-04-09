@@ -103,7 +103,7 @@ _*Aqui estão algumas capturas de tela do projeto em ambiente Desktop e Mobile.*
 <br/>
 
 <div>
-<img src="/src/pictures/Portfolio-Desktop01.png" alt="Profile Danielcsxx Desktop" width:"50%">
+<img src="/src/pictures/Portfolio-Desktop.png" alt="Profile Danielcsxx Desktop" width:"50%">
 </div>
 
 ---
@@ -115,7 +115,7 @@ _*Aqui estão algumas capturas de tela do projeto em ambiente Desktop e Mobile.*
 <br/>
 
 <div>
-<img src="/src/pictures/Portfolio-Mobile01.png" alt="Profile Danielcsxx Mobile" width:"60%">
+<img src="/src/pictures/Portfolio-Mobile.png" alt="Profile Danielcsxx Mobile" width:"60%">
 </div>
 
 <br/>
