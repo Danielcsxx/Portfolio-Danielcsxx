@@ -17,7 +17,9 @@ const HeaderContainer = styled.header`
 
   &.HeaderFix { 
     background-color: #303030;
-    height: 72px;  
+    height: 72px;
+    box-shadow: 0 0 14px 6px #152ae6;
+    border-bottom: 1px solid #FFF;
   }
 `;
 
