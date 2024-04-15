@@ -168,6 +168,8 @@ const ContatctBtnGit = styled.a`
       margin-top: 66px;
       margin-left: -20px;
       z-index: 9;
+      border: 2px solid #FFF; 
+      box-shadow: 0 0 10px 6px #5C6BC0;
     }
 `;
 
@@ -194,6 +196,8 @@ const ContatctBtnIn = styled.a`
       margin-top: 66px;
       margin-left: -20px;
       z-index: 9;
+      border: 2px solid #FFF; 
+      box-shadow: 0 0 10px 6px #0A66C2;
     }
 `;
 
