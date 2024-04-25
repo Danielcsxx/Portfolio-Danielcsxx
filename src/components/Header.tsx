@@ -43,12 +43,14 @@ const Logo = styled.a`
   cursor: pointer;
   font-size: 32px;
   font-weight: bold;
-  color: #152ae6;
   transition: all .4s ease;
 
+  color: #FFF;
+  text-shadow: 0 0 42px #152ae6;
+
   &:hover{
-    color: #F9F6EE;
-    text-shadow: 0 2px 42px #152ae6;
+    color: #00C8EA;
+    text-shadow: 0 0 42px #5260de;
   }
 
   @media (max-width: 1000px) {
