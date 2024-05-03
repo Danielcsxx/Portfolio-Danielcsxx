@@ -239,7 +239,7 @@ const Home: React.FC = () => {
             <FaRegUser size={26} />
           </BtnContact>
           <BtnDownload
-            href="https://drive.google.com/file/d/13ytujCitQ00Wg9g7ikGjOIOn1452c0qg/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1YefIwnzoQArtbAMVVLHvGC5xnDYmNCP_/view?usp=drive_link"
             target="_blank"
           >
             {"Download"}
