@@ -49,7 +49,8 @@ const Logo = styled.a`
   text-shadow: 0 0 42px #152ae6;
 
   &:hover{
-    color: #00C8EA;
+    color: #152AE6;
+    font-weight: bold;
     text-shadow: 0 0 42px #5260de;
   }
 
