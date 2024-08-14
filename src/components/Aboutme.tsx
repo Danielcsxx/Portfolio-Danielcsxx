@@ -75,19 +75,22 @@ const AboutMe: React.FC = () => {
             <Title><DetailTitle>-</DetailTitle>{"Sobre mim"}<DetailTitle>-</DetailTitle></Title>
             <ContentMain>
                 <ContentText>
-                    Minha paixão pela tecnologia foi um dos principais motivos que me
-                    ajudou a realizar a minha transição de carreira, deixando 
-                    recentemente a área Técnica Industrial para ingressar 100% no mundo da
-                    tecnologia, mais precisamente no Desenvolvimento de Softwares.
+                    Olá, Seja muito bem vindo(a)!
+                    <br />
+                    Sou o Daniel e atuo com o desenvolvimento de softwares há mais de 2 anos.
+                    Sempre fui apaixonado por tecnologia e iniciei minha trajetória na área
+                    por meio de estudos mais voltados para o Front-end, utilizando JavaScript, HTML e CSS.
+                    Na sequência comecei a por em prática o conhecimento adquirido desenvolvendo
+                    aplicações, como: Landingpages, Blogs e Webpages com foco em responsividade.
                     <br /><br />
-                    Sou adepto a aprendizagem contínua. Constantemente, desenvolvo 
-                    projetos pessoais com o intuito de evoluir e aprimorar o meu conhecimento 
-                    pessoal e também oferecer as melhores soluções possíveis no desenvolvimento de software.
+                    Sou adepto a aprendizagem contínua. Constantemente, desenvolvo projetos pessoais
+                    com o intuito de evoluir e aprimorar o meu conhecimento pessoal e também oferecer 
+                    as melhores soluções possíveis no desenvolvimento de software.
                     <br /><br />
                     Atualmente, estou cursando Análise e Desenvolvimento de Sistemas
                     pela Uniasselvi e estudando por meio de cursos particulares
                     adquiridos na RockeSeat, ORIGAMID e Udemy, onde adquiro novos
-                    conhecimentos e habilidades, seja por meio das atividades práticas, 
+                    conhecimentos e habilidades, seja por meio das atividades práticas,
                     como também contribuindo com conhecimento em grupos de estudos no Discord.
                 </ContentText>
                 <ImageProfile src={FotoPerfil} alt="Profile photo Danielcsxx" />
