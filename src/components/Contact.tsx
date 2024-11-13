@@ -181,7 +181,7 @@ const Contact: React.FC = () => {
                             </ContactIcon>
                             <ContactDivInfos>
                                 <ContactTitle>{"Localização"}</ContactTitle>
-                                <ContactSubtitle>{"E.S-Serra"}</ContactSubtitle>
+                                <ContactSubtitle>{"ES-Cariacica"}</ContactSubtitle>
                             </ContactDivInfos>
                         </ContactMainInfos>
                         <ContactMainInfos>
@@ -190,7 +190,7 @@ const Contact: React.FC = () => {
                             </ContactIcon>
                             <ContactDivInfos>
                                 <ContactTitle>{"Whattsapp"}</ContactTitle>
-                                <ContactSubtitle>{"(27) 9 8877-3797"}</ContactSubtitle>
+                                <ContactSubtitle>{"(xx) x xxxx-xxxx"}</ContactSubtitle>
                             </ContactDivInfos>
                         </ContactMainInfos>
                         <ContactMainInfos>
