@@ -125,7 +125,7 @@ const ContactFormErrors = styled(ErrorMessage)`
 `;
 
 const ContactForm: React.FC = () => {
-    const [state, handleSubmit] = useForm("mvoewzyg");
+    const [, handleSubmit] = useForm("mvoewzyg");
 
     const initialValues: FormValues = {
         nome: '',
