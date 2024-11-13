@@ -125,7 +125,6 @@ const ContactFormErrors = styled(ErrorMessage)`
 `;
 
 const ContactForm: React.FC = () => {
-    // eslint-disable-next-line
     const [state, handleSubmit] = useForm("mvoewzyg");
 
     const initialValues: FormValues = {
@@ -150,11 +149,11 @@ const ContactForm: React.FC = () => {
     const sendForm = async (values: FormValues, helpers: FormikHelpers<FormValues>) => {
         try {
             await handleSubmit(values);
-            toast.success("Formulário enviado com sucesso");
+            toast.success("Mensagem enviada com sucesso!");
             helpers.resetForm();
         } catch (error) {
-            console.log("Erro no envio do formulario: ", error);
-            toast.error("Falha no envio do formulário");
+            console.log("Erro no envio da mensagem: ", error);
+            toast.error("Falha no envio da mensagem.");
         }
     };
 
