@@ -93,6 +93,7 @@ const ProjectImg = styled.img`
     width: 320px;
     height: 300px;
     border-radius: 4px;
+    border: 1px solid #FFF;
 
     @media (max-width: 1000px) {
         width: 220px;
@@ -127,16 +128,18 @@ const ProjectLinks = styled.div`
 const ProjectNextBtn = styled.button`
     border: none;
     cursor: pointer;
-    color: #152ae6;
+    color: #FFFFFF;
     background-color: transparent;
-    transition: color .4s ease;
+
+    transition: transform 0.4s ease-in-out, color 0.4s ease-in-out;
 
     &:hover{
-        color: #FFFFF0;
+        color: #FFFFFF;
+        transform: scale(1.4);
     }
 
     @media (max-width: 1000px){
-        color: #FFFFF0;
+        color: #FFFFFF;
         margin-top: 14px;
         svg {
             width: 32px;
@@ -148,16 +151,18 @@ const ProjectNextBtn = styled.button`
 const ProjectPrevBtn = styled.button`
     border: none;
     cursor: pointer;
-    color: #152ae6;
+    color: #FFFFFF;
     background-color: transparent;
-    transition: color .4s ease;
+
+    transition: transform 0.4s ease-in-out, color 0.4s ease-in-out;
 
     &:hover{
-        color: #FFFFF0;
+        color: #FFFFFF;
+        transform: scale(1.4);
     }
 
     @media (max-width: 1000px){
-        color: #FFFFF0;
+        color: #FFFFFF;
         margin-bottom: 14px;
 
         svg {

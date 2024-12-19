@@ -90,10 +90,10 @@ const ContactIcon = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 32px;
-    height: 32px;
+    width: 36px;
+    height: 36px;
     border: 2px solid #FFF;
-    border-radius: 8px;
+    border-radius: 6px;
     box-shadow: 0 0 26px 6px #152ae6;
 `;
 
@@ -105,10 +105,11 @@ const ContactDivInfos = styled.div`
 `;
 
 const ContactTitle = styled.h3`
+    margin-bottom: 2px;
 `;
 
 const ContactSubtitle = styled.h4`
-    color: #152ae6;
+    color: #007bff;
     font-weight: bold;
     font-size: 16px;
 `;

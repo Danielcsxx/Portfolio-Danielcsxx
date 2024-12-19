@@ -8,6 +8,7 @@ import css3 from "../icons/css3.svg";
 import react from "../icons/react.svg";
 import typescript from "../icons/typescript.svg";
 import styledComponents from "../icons/styledComponents.svg";
+import cSharp from "../icons/cSharp.svg";
 import sass from "../icons/sass.svg";
 import bootstrap from "../icons/bootstrap.svg";
 import nodejs from "../icons/nodejs.svg";
@@ -226,23 +227,23 @@ const Skills: React.FC = () => {
         { type: "hard", name: "JavaScript", src: javascript },
         { type: "hard", name: "HTML5", src: html5 },
         { type: "hard", name: "CSS3", src: css3 },
-        { type: "hard", name: "CSS3", src: react },
-        { type: "hard", name: "CSS3", src: typescript },
-        { type: "hard", name: "CSS3", src: styledComponents },
-        { type: "hard", name: "CSS3", src: sass },
-        { type: "hard", name: "CSS3", src: bootstrap },
-        { type: "hard", name: "CSS3", src: nodejs },
-        { type: "hard", name: "CSS3", src: postgresql },
-        { type: "hard", name: "CSS3", src: mysql },
-        { type: "hard", name: "CSS3", src: postman },
-        { type: "hard", name: "CSS3", src: git },
-        { type: "hard", name: "CSS3", src: github },
-        { type: "hard", name: "CSS3", src: npm },
-        { type: "hard", name: "CSS3", src: yarn },
-        { type: "hard", name: "CSS3", src: vscode },
-        { type: "hard", name: "CSS3", src: figma },
-        { type: "hard", name: "CSS3", src: jira },
-        { type: "hard", name: "CSS3", src: notepad },
+        { type: "hard", name: "React", src: react },
+        { type: "hard", name: "TypeScript", src: typescript },
+        { type: "hard", name: "StyledComponents", src: styledComponents },
+        { type: "hard", name: "Sass", src: sass },
+        { type: "hard", name: "Bootstrap", src: bootstrap },
+        { type: "hard", name: "Nodejs", src: nodejs },
+        { type: "hard", name: "C#", src: cSharp },
+        { type: "hard", name: "Postgresql", src: postgresql },
+        { type: "hard", name: "Mysql", src: mysql },
+        { type: "hard", name: "Postman", src: postman },
+        { type: "hard", name: "Git", src: git },
+        { type: "hard", name: "Github", src: github },
+        { type: "hard", name: "Npm", src: npm },
+        { type: "hard", name: "Yarn", src: yarn },
+        { type: "hard", name: "VSCode", src: vscode },
+        { type: "hard", name: "Figma", src: figma },
+        { type: "hard", name: "Jira", src: jira },
         { type: "soft", name: "Organizado" },
         { type: "soft", name: "Comunicativo" },
         { type: "soft", name: "Responsável" },

@@ -31,9 +31,11 @@ const FooterMain = styled.div`
   justify-content: center;
   text-align: center;
   width: 100%;
-  height: 60px;
+  height: 72px;
   background-color: #303030;
-  margin-top: -60px;
+  margin-top: -72px;
+  border-top: 2px solid #FFF;
+  box-shadow: 0 0 14px 6px #152ae6;
 
   @media (max-width: 1000px) {
     height: 40px;
@@ -63,7 +65,7 @@ const FooterText = styled.p`
 
 const FooterLink = styled.a`
   cursor: pointer;
-  color: #152ea6;
+  color: #007bff;
   font-weight: bold;
   font-size: 26px;
   transition: 0.4s color;
@@ -79,16 +81,16 @@ const FooterLink = styled.a`
 
 
 const Footer: React.FC = () => {
-    return (
-        <FooterMain>
-            <Footerdiv>
-                <FooterText>{"Feito com"}</FooterText>
-                <HeartbeatHeart size={22} />
-                <FooterText>{"por"}</FooterText>
-                <FooterLink>{"Danielcsxx"}</FooterLink>
-            </Footerdiv>
-        </FooterMain>
-    )
+  return (
+    <FooterMain>
+      <Footerdiv>
+        <FooterText>{"Feito com"}</FooterText>
+        <HeartbeatHeart size={22} />
+        <FooterText>{"por"}</FooterText>
+        <FooterLink>{"Danielcsxx"}</FooterLink>
+      </Footerdiv>
+    </FooterMain>
+  )
 }
 
 export default Footer;
