@@ -22,7 +22,6 @@ import yarn from "../icons/yarn.svg";
 import vscode from "../icons/vscode.svg";
 import figma from "../icons/figma.svg";
 import jira from "../icons/jira.svg";
-import notepad from "../icons/notepadd++.svg";
 
 import { FaLaptop, FaBrain } from "react-icons/fa";
 
